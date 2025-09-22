@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Khyra Joelle
 
-<!--
-**khyrajoelle/khyrajoelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Data/ Business Intelligence (BI) learner exploring Power BI, SQL, and Excel — with a goal of becoming a Governance, Risk & Compliance (GRC) Analyst.
 
-Here are some ideas to get you started:
+## 📚 What I’m Working On
+- Building dashboards with Power BI
+- Writing SQL queries for data insights
+- Learning compliance frameworks like ISO 27001 and SOC 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+- Power BI
+- SQL (PostgreSQL, SQLite)
+- Excel
+- Git & GitHub
+
+## 📫 Connect With Me
+- www.linkedin.com/in/khyradrummond
